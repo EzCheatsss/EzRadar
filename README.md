@@ -1,6 +1,4 @@
 [![Discord](https://img.shields.io/discord/1231558120854257717?style=for-the-badge&logo=discord&label=Discord)]([https://discord.gg/XAWjmzeaD3](https://discord.gg/ZfqDZMtgzV))
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/EzCheatss/EzRadar/main?style=for-the-badge&label=Last%20Commit)]()
-[![GitHub Repo stars](https://img.shields.io/github/stars/EzCheatss/EzRadar?style=for-the-badge)]()
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1VMA9G)
 
