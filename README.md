@@ -32,7 +32,7 @@ Join the [Discord](https://discord.gg/ZfqDZMtgzV) to look at the to-do list and 
 1. Download Node.js v18.18.2:
 - [Node.js v18.18.2 (64-bit)](https://nodejs.org/dist/v18.18.2/node-v18.18.2-x64.msi)
 2. Download Npcap:
-- [Npcap 1.72](https://npcap.com/dist/npcap-1.72.exe)
+- [Npcap 1.79](https://npcap.com/dist/npcap-1.79.exe)
 3. Download the the latest release
 - [Releases](https://github.com/EzCheatss/EzRadar/releases)
 4. Open the file `EzRadar.exe` 
