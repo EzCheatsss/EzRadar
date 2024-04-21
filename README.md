@@ -1,6 +1,5 @@
 [![Discord](https://img.shields.io/discord/1231558120854257717?style=for-the-badge&logo=discord&label=Discord)]([https://discord.gg/XAWjmzeaD3](https://discord.gg/ZfqDZMtgzV))
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1VMA9G)
 
 ## ❓ What is EzRadar?
 
