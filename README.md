@@ -3,7 +3,7 @@
 
 ## ❓ What is EzRadar?
 
-EzRadar is a radar type tool for the game Albion Online.
+EzRadar is a radar type tool for the game Albion Online
 \
 Albion EzRadar provides a real-time map, helping players detect other players, creatures, resources and more, nearby.
 
